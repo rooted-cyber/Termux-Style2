@@ -15,6 +15,7 @@ aa='\033[1;95m'
 bb='\033[1;96m'
 
 echo "$a Temux-Stylish $b" - https://github.com/Android-Maruf/Termux-Stylish1
+echo "https://github.com/Android-Maruf/Termux-Style2"
 echo " "
 echo "$red Get Many Github link $blue" - github-link
 echo " "
