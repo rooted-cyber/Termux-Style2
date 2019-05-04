@@ -40,3 +40,4 @@ toilet -f mono12 -F gay Successfully
 toilet -f mono12 -F gay Changed
 echo " "
 echo "$x Ab new session khol ke dekh sakte ho $y"
+toilet -f mono -F gay Completed
