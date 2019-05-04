@@ -2,6 +2,8 @@
 g='\033[1;32m'
 p='\033[1;35m'
 echo "$p Parrot os install - pkg install wget openssl-tool proot -y && hash -r && wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/Parrot/parrot.sh && bash parrot.sh $p"
+echo " "
+echo " "
 echo "$g github link:- https://github.com/An0nUD4Y/blackeye
 github link:- https://github.com/tadasny/Termux-The-Choice
 github link:- https://github.com/An0nUD4Y/SocialFish
@@ -28,3 +30,4 @@ github link:- https://github.com/thewhiteh4t/seeker
 github link:- https://github.com/thelinuxchoice/shellphish
 github link:- https://github.com/princeyasinzone/virus_bot
 github link:- https://github.com/Gameye98/Lazymux $g"
+github link:- https://github.com/Android-Maruf/Termux-Style2
