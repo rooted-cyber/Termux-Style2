@@ -1,6 +1,0 @@
-
- * Root:     pkg install root-repo
- * Unstable: pkg install unstable-repo
- * X11:      pkg install x11-repo
- 
- 
